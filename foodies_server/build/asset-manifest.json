@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac099ff1.css",
+    "main.js": "/static/js/main.b5898d27.js",
+    "static/js/453.2838e13c.chunk.js": "/static/js/453.2838e13c.chunk.js",
+    "static/media/Kalam-Bold.ttf": "/static/media/Kalam-Bold.c4671477e81c3c51ffc0.ttf",
+    "static/media/HashedBrowns-WyJgn.ttf": "/static/media/HashedBrowns-WyJgn.5e224c69bab2928d5d18.ttf",
+    "index.html": "/index.html",
+    "main.ac099ff1.css.map": "/static/css/main.ac099ff1.css.map",
+    "main.b5898d27.js.map": "/static/js/main.b5898d27.js.map",
+    "453.2838e13c.chunk.js.map": "/static/js/453.2838e13c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac099ff1.css",
+    "static/js/main.b5898d27.js"
+  ]
+}
